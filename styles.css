@@ -12,8 +12,8 @@ body {
 }
 
 .card {
-  width: 75vw;
-  height: 70vh;
+  width: 70vw;
+  height: 65vh;
   border-radius: 10px;
   /* border: 2px solid red; */
   display: flex;
@@ -80,6 +80,7 @@ p {
   margin-left: 80px;
   background-color: hsl(0, 0%, 95%);
   cursor: pointer;
+  border: 2px solid rgba(242, 242, 242, 0);
 }
 
 .learnMoreButton .sedanLearnMore {
